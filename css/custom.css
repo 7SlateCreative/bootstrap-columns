@@ -2,6 +2,34 @@ body {
 	background-color: #f9f9f9;
 }
 
+/* ----------------- Navigation --------------------- */
+.navbar-default {
+	background-color: #d9d9d9;
+	color: #009900;
+	text-transform: uppercase;
+}
+
+.navbar-default .navbar-nav > li > a {
+	background-color: #d9d9d9;
+	color: #009900;
+	text-transform: uppercase;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+	background-color: #d6d6d6;
+	color: #f9f9f9;
+}
+
+.dropdown-menu > li > a {
+	background-color: #f9f9f9;
+	color: #4d4d4d;
+}
+
+.dropdown-menu > li > a:hover {
+	background-color: #009900;
+	color: #f9f9f9;
+}
+
 p {
 	color: #8c8c8c;
 }
